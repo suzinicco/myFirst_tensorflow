@@ -14,3 +14,8 @@ print sess.run(y,feed_dict={a:3, b:3})
 ## git commit test
 
 print ("hello world")
+
+
+## git commit test 2
+
+print ("hello git")
