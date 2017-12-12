@@ -41,3 +41,7 @@ print ("commit test 8888")
 
 ## git commit 10 from ST3
 print ("commit test 10")
+
+
+## git commit 11 from pycharm
+print ("commit test 11")
