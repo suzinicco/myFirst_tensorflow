@@ -5,4 +5,3 @@ sess = tf.Session()
 
 print(sess.run(hello))
 
-
